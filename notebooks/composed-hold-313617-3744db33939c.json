@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "composed-hold-313617",
+  "private_key_id": "3744db33939cfdac93fbd936dab745d281cea9f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCt5OQ1VDjfyddy\nAuxTZaRD963quilwrBS39OtdAj6XZzf/54Jw6E/jXKhPZTDd5rI53XDJvmLuZCtg\nmiqYiwKxx08AbZrehZJEVmhBqBdeqk8H0w6JORU+OxF8+jvoVkAgpPEmlvJhDiMh\nA/6qHh0nqp9yunlA6/YtOxtbGhllCSYQMdDFidVfgZBpAHFWwI+ZD/yGnsTK/1An\nFRS3GNO3km+N/K9MQZmg+6dhrBsBFlFb8XsnP3/9VDV/Qm7j2mHOuQKhjN53c5Ud\nNMURcD0XyKlFAX7OxVbIWb+EfQs36i/c14t/3HoiHCceNSasuNjVOOWSxfyEK9hs\nmFBe7uBLAgMBAAECggEANVc75VvjYkogyzk4UtCf1bV45MKcCZLPfColtE8G8hxY\nYigarBWmw8BdZJVOqxKj4voZKdk7sZKKd8Rygn5JokzX3/K/CbkBR/MVYeZ03LXz\nLhxAnjkjWgZ2c9ayX69tVlYiHss4qCrU/cCi8n3wRYWiCWhH33FB/1fdKVHVLldh\nJB43IwzZmn6lRCYNSGO6gjcT3MZBoRIt4g4t6UIJOlKBNmCZlr8dvub7Gs5YbWvN\nLAq6J83Fc4GUeLrTW2SJ8ICaaFIk6oO9j2m2EReO/UPR3lb4hxhspU3+ewHbmzvv\nh0lMkusMcaQibs9fx9ggeQXHuwnxez5ShR1mkdGb4QKBgQDmVBm6lAr+nNFIMtQX\nyS91ivYorgPvHXJ90Pjq3LnGch+rt7Rrf8jHuuA3JxrwRulGCitGucHaTp2+iFRw\nHK4aYP2gQ50rdOZgqvQQYRBXSq/GlvFYvFa+74ncsLe4mBcajw/041XSRdQxgJHs\nlA/Js7M7P7A1fkDI6QyRYDuS0QKBgQDBRpBImwNVCxfkcKiLCIe7BNKg30Nu6DHL\n7Y9FM3MAH/LnlYR1+wukOGNCqvFLyezufZ7ARTM2FlUSeSxrEZgfYN0BFvXcFTL7\nBl0CISSEGt5lA8FJQaBZjbjGm5UNLq9hAdIvZW3RqKX9S5rdmn0sGY9VejjaqD8P\nUThxCDKwWwKBgQCwMB0OUDio06Rzqg37s/YN4CK0s4hm3Qu7mqMOZZHmb14yqO/m\nW3Vm81iYV92Pd27yGM1J6MaVDBY2rWqJ6CZ2H0Nj2NTdbSrdP2g7L0SkwYj8THKK\nAmgI3ouCuduP5SenNVBrb4sysh/DTipR4mDBVikAZZORF+bOyRbIDekEQQKBgFLi\nePO6DmbFGBzuN0lQgiywt8cnl9qTFu/WU6+gjbvK97daxnB2FZr6V476kfongUUR\neCgKRRj34MnIT0UnSW6DcqOJ/ivAp5lBNFe6cNd6Uk9NmfFZhHODNG9vvy7lC271\ngfazb7IOughzCNnp664i0/YbMRCMQGbINQU8N8irAoGAdpCCwaqEGqSV2qcyteIs\ndQ3J1AMaE3EmuE02eTdbJoRCbzc0A/A3PGDH8NPdVbi45BMYIU4Fjfy+B2LEdb5Q\neKCLOpNIQyVBbr//AZakhmohMBr7LHvRhFr66wui7ZwFjatlvEONOQbNplK9i4Vg\nnoOGUTVUnAiCW32t2SQwJAU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-data-admin@composed-hold-313617.iam.gserviceaccount.com",
+  "client_id": "105676407823203916384",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-data-admin%40composed-hold-313617.iam.gserviceaccount.com"
+}
