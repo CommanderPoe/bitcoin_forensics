@@ -1,2 +1,7 @@
 .DS_Store
 files/blocks.csv
+notebooks/llave1.json
+notebooks/llave.json
+notebooks/.ipynb_checkpoints/*
+.ipynb_checkpoints*
+notebooks/.ipynb_checkpoints/
