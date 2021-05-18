@@ -1,5 +1,5 @@
 .DS_Store
-files/blocks.csv
+files/*
 notebooks/llave1.json
 notebooks/llave.json
 notebooks/.ipynb_checkpoints/*
