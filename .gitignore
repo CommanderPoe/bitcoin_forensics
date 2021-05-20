@@ -5,3 +5,5 @@ notebooks/llave.json
 notebooks/.ipynb_checkpoints/*
 .ipynb_checkpoints*
 notebooks/.ipynb_checkpoints/
+presentation/*
+notebooks/testing.ipynb
