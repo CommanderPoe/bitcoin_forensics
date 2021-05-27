@@ -6,3 +6,4 @@ notebooks/.ipynb_checkpoints/*
 .ipynb_checkpoints*
 presentation/*
 notebooks/testing.ipynb
+notebooks/Graph.ipynb
