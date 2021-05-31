@@ -63,6 +63,10 @@ ___
 
 #### Video of the MVP... ₿
 
+https://user-images.githubusercontent.com/33594578/120248096-18076780-c276-11eb-9fef-cf1a3eb9054e.mp4
+
+
+<br />
 
 #### Things to improve... ₿
 - [ ] Better way to represent the data (output) in string format.
