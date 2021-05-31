@@ -26,11 +26,11 @@ Once a bitcoin changes hands, the transaction becomes an official Blockchain ent
 **The goal** of this small project is to connect one address to another just like [*bitcoin's explorers*](https://blockstream.info) do but showing the whole history in string format but also visually, so the unexperience user wont have to deal with the in/outs of the most needed blockchain explorers.
 <br />
 
-Here's how the output in string format looks like in raw.
+*Here's how the output in string format looks like in raw.*
 <img src="https://github.com/CommanderPoe/bitcoin_forensics/blob/main/presentation/vids/output.png"> 
 
-Here's how the output looks visually after using [*gephi*](https://gephi.org).
-<img src="https://github.com/CommanderPoe/bitcoin_forensics/blob/main/presentation/vids/tx_visualization.png"> 
+*Here's how the output looks visually after using [*gephi*](https://gephi.org).
+<img src="https://github.com/CommanderPoe/bitcoin_forensics/blob/main/presentation/vids/tx_visualization.png">.*
 <br />
 
 #### The process... ₿
@@ -40,5 +40,9 @@ Here's how the output looks visually after using [*gephi*](https://gephi.org).
 
 
 #### Things to improve... ₿
-
+- [ ] Better way to represent the data (output) in string format.
+- [ ] Improve skills of gephi, software offers unlimited posibilities for this project.
+- [ ] Try to extract the data (transaction history) from own node using the python API instead of using Google's BigQuery.
+- [ ] Explore and scrape several websites for 'abused addresses' and create a small database of all malicious transactions.
+- [ ] Use more data.
 
